@@ -1,0 +1,25 @@
+# Build directory
+build/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Binaries
+*.o
+*.a
+*.so
+*.out
+
+# VSCode
+.vscode/
+
+# Clangd cache
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
